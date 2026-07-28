@@ -41,8 +41,6 @@ For your second milestone, explain what you've worked on since your previous mil
 
 # First Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LDwZ9YOMS1k?si=-OmTwEKo9Ekax1DY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 For my Bluestamp Engineering project, I'm creating an Interactive AI Storybook using Raspberry Pi and OpenAI. The project's goal is to allow the user to create personalized stories by speaking into a microphone. First, their prompt from their voice is converted into text using OpenAI's Whisper Speech Recognition Model. That text is then incorporated into a prompt that provides the AI with instructions about the story's format, length, and topic before being sent to ChatGPT, which generates a story based on the prompt. The completed story is then displayed on a touchscreen, making it similar to a kindle. The reason why I chose this project is because I already have experience with CAD design, fabrication, and robotics, but I wanted to challenge myself by learning new skills in electronics, embedded systems, and AI software integration. 
