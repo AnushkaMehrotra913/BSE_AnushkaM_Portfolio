@@ -49,7 +49,7 @@ For my first milestone, I successfully created a working prototype capable of ge
 My next steps involve completing the physical assembly by mounting the Raspberry Pi to the touchscreen and placing the product inside the storybook. I also plan to expand on the project by adding NeoPixel LEDs and a magnetic sensor.
 
 # Schematics 
-Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
+![Electronics Assembly](circuit_image (1).png)
 
 # Code
 
