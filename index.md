@@ -49,7 +49,7 @@ For my first milestone, I successfully created a working prototype capable of ge
 My next steps involve completing the physical assembly by mounting the Raspberry Pi to the touchscreen and placing the product inside the storybook. I also plan to expand on the project by adding NeoPixel LEDs and a magnetic sensor.
 
 # Schematics 
-![Electronics Assembly](circuit_image (1).png)
+![Electronics Assembly](electronicsassembly.png)
 
 # Code
 
