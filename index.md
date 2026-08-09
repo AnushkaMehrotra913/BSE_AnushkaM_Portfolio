@@ -53,12 +53,14 @@ Here's where you'll put images of your schematics. [Tinkercad](https://www.tinke
 
 # Code
 
-Here's the setup code for my project:
+Here's my code to run the program:
 ```python
 sudo -E $(which python3) story.py
+```
 
 Here's the story.py code for my project:
 
+```python
 # SPDX-FileCopyrightText: 2023 Melissa LeBlanc-Williams for Adafruit Industries
 # SPDX-License-Identifier: MIT
 import subprocess
@@ -1026,9 +1028,12 @@ def main(args):
 
 if __name__ == "__main__":
     main(parse_args())
+```
 
 Here's my listener.py code:
 
+```
+python
 # SPDX-FileCopyrightText: 2023 Melissa LeBlanc-Williams for Adafruit Industries
 # SPDX-License-Identifier: MIT
 
