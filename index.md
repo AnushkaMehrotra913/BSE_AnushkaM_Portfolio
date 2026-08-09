@@ -58,8 +58,8 @@ Here's the setup code for my project:
 sudo -E $(which python3) story.py
 
 Here's the story.py code for my project:
+
 # SPDX-FileCopyrightText: 2023 Melissa LeBlanc-Williams for Adafruit Industries
-#
 # SPDX-License-Identifier: MIT
 import subprocess
 import threading
@@ -129,8 +129,7 @@ TITLE_COLOR = (0, 0, 0)
 TEXT_FONT = (FONTS_PATH + "times new roman.ttf", 24)
 TEXT_COLOR = (0, 0, 0)
 
-# Delays Settings
-# Used to control the speed of the text
+# Delays Settings: used to control the speed of the text
 WORD_DELAY = 0.1
 TITLE_FADE_TIME = 0.05
 TITLE_FADE_STEPS = 25
@@ -1029,8 +1028,8 @@ if __name__ == "__main__":
     main(parse_args())
 
 Here's my listener.py code:
+
 # SPDX-FileCopyrightText: 2023 Melissa LeBlanc-Williams for Adafruit Industries
-#
 # SPDX-License-Identifier: MIT
 
 import time
