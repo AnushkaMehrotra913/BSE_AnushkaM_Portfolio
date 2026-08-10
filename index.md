@@ -1,5 +1,6 @@
 # AI Interactive Storybook
-What if you could create your own stories by simply speaking into a microphone? For my project, I chose to create an AI Interactive Storybook that uses a Raspberry Pi 4, a USB microphone, a touchscreen, and OpenAI’s API to turn a spoken request into a personalized story. While building it, my little brother inspired me to add a speaker after mentioning that some words were difficult for him to pronounce, leading me to make the book read stories aloud while highlighting the lines. Building this project pushed me beyond my previous experience with robotics and fabrication and challenged me to integrate hardware, software, and AI into one working device.
+What if you could create your own stories by simply speaking into a microphone? 
+For my project, I chose to create an AI Interactive Storybook that uses a Raspberry Pi 4, a USB microphone, a touchscreen, and OpenAI’s API to turn a spoken request into a personalized story. While building it, my little brother inspired me to add a speaker after mentioning that some words were difficult for him to pronounce, leading me to make the book read stories aloud while highlighting the lines. Building this project pushed me beyond my previous experience with robotics and fabrication and challenged me to integrate hardware, software, and AI into one working device.
 
 ```HTML 
 <!--- This is an HTML comment in Markdown -->
